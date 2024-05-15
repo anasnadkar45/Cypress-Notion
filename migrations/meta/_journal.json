@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715774983152,
+      "tag": "0000_slippery_the_liberteens",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715775607980,
+      "tag": "0001_luxuriant_madame_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1715777079118,
+      "tag": "0002_lying_hairball",
+      "breakpoints": true
+    }
+  ]
+}
